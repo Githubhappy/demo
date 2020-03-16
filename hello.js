@@ -1,1 +1,3 @@
-console.log("hello world")
+function myFunction() {
+  document.getElementById("demo").innerHTML = "Paragraph changed.";
+}
